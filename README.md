@@ -34,9 +34,8 @@
 ### :zap: Github Stats
 <img align="left" alt="Shrey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shreysatapara&show_icons=true&hide_border=true" />
 
-## Top Langs
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreysatapara&layout=compact)
+NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 
 
 [twitter]: https://twitter.com/shreysatapara

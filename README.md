@@ -28,13 +28,17 @@
 <img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
 <br />
-<br/>
-<div align='left'>
+<br />
+<br />
+<details>
 <img align="left" alt="Shrey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shreysatapara&show_icons=true&hide_border=true" />
-<div>
-<br/>
+</details>
+<br />
+
+NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreysatapara&layout=compact)]
+
 
 [twitter]: https://twitter.com/shreysatapara
 [instagram]: https://instagram.com/shreysatapara

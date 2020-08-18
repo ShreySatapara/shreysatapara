@@ -29,9 +29,9 @@
 
 <br />
 <br/>
-
+<div align='left'>
 <img align="left" alt="Shrey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shreysatapara&show_icons=true&hide_border=true" />
-
+<div>
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreysatapara&layout=compact)]

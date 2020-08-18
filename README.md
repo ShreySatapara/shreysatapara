@@ -29,17 +29,12 @@
 
 <br />
 <br/>
----
-<details>
-    
 
-  <img align="left" alt="Shrey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shreysatapara&show_icons=true&hide_border=true" />
-
-</details>
+<img align="left" alt="Shrey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shreysatapara&show_icons=true&hide_border=true" />
 
 <br/>
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreysatapara&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shreysatapara&layout=compact)]
 
 [twitter]: https://twitter.com/shreysatapara
 [instagram]: https://instagram.com/shreysatapara

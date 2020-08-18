@@ -2,9 +2,9 @@
 
 ## I'm a Student, Blockchain Developer, and novoice data scientist!
 
-- 🔭 I’m currently working on GAN for network intrusion detection!
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🔭 currently working on GAN for network intrusion detection!
+- 🌱 currently imporving my skills on ML and DL.
+- 🥅 2020 Goals: Contribute more to Open Source projects.
 
 ### Connect me:
 

@@ -1,10 +1,10 @@
 ### Hi there, I'm Shrey👋
 
-## I'm a Student, Blockchain Developer, and novoice data scientist!
+## I'm a Student and novoice data scientist!
 
-- 🔭 currently working on GAN for network intrusion detection!
+- 🔭 currently working on Semi Supervised GAN for Text classification
 - 🌱 currently imporving my skills on ML and DL.
-- 🥅 2020 Goals: Contribute more to Open Source projects.
+- 🥅 Research Intern at IIM Ahmedabad, currently working on 'Impact of digital marketing and brand anthropomorphism' .
 
 ### Connect me:
 

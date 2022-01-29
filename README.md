@@ -2,9 +2,9 @@
 
 ## I'm a Student and novoice data scientist!
 
-- 🔭 currently working on Semi Supervised GAN for Text classification
-- 🌱 currently imporving my skills on ML and DL.
-- 🥅 Research Intern at IIM Ahmedabad, currently working on 'Impact of digital marketing and brand anthropomorphism' .
+- 🔭 currently working on knowledge distillation and explainability of deep learning models in nlp
+- 🌱 Graduate Student at Dept. of AI, IIT Hyderabad, India.
+- 🥅 Research Assistant at Dept. of AI, IIT Hyderabad, India.
 
 ### Connect me:
 

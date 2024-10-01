@@ -1,3 +1,2 @@
 ### Hi there, I'm Shrey👋
-- 🌱 Graduate Student at Dept. of AI, IIT Hyderabad, India.
-- 🥅 Research Assistant at Dept. of AI, IIT Hyderabad, India.
+A master's student in the Department of Artificial Intelligence at Indian Institute of Technology Hyderabad (IITH), India. My research interests lie in Multilingual Natural Language Processing. As a multilingual individual, I am committed to developing cross-lingual/multilingual models that can support various applications in low-resource languages. My master's thesis focuses on continual learning and cross-lingual transfer in multilingual NLP.
